@@ -1,0 +1,34 @@
+_repo: Gouverneur-Morris_39915
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Roosevelt, Theodore
+    aliases:
+    - United States President (1901-1909)
+    - Roosevelt, Teddy
+    birthdate: 1858
+    deathdate: 1919
+    gutenberg_agent_id: '729'
+    url: http://www.gutenberg.org/2009/agents/729
+    wikipedia: http://en.wikipedia.org/wiki/Theodore_Roosevelt
+description: ''
+gutenberg_issued: '2012-06-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39915'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'United States -- Politics and government -- 1775-1783'
+- !lcsh 'Statesmen -- United States -- Biography'
+- !lcsh 'United States -- Foreign relations -- 1789-1797'
+- !lcsh 'United States -- Politics and government -- 1783-1789'
+- !lcc 'E300'
+- !lcsh 'Morris, Gouverneur, 1752-1816'
+title: Gouverneur Morris
+url: http://www.gutenberg.org/ebooks/39915
